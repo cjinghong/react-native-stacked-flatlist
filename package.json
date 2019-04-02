@@ -1,0 +1,36 @@
+{
+  "name": "react-native-stacked-flatlist",
+  "version": "1.0.0",
+  "description": "An Apple-Wallet-like component for stacking Flat list items like cards.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cjinghong/react-native-stacked-flatlist.git"
+  },
+  "keywords": [
+    "react-native",
+    "react-component",
+    "react-native-component",
+    "react",
+    "react native",
+    "mobile",
+    "ios",
+    "android",
+    "ui",
+    "cards",
+    "apple wallet",
+    "wallet",
+    "stack",
+    "flat list",
+    "list"
+  ],
+  "author": "Chan Jing Hong",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cjinghong/react-native-stacked-flatlist/issues"
+  },
+  "homepage": "https://github.com/cjinghong/react-native-stacked-flatlist#readme"
+}
